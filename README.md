@@ -9,6 +9,4 @@ The illustration is provided in the comments
 
 [sklearn](https://scikit-learn.org)
 
-[matplotlib](https://matplotlib.org)
-[matplotlib](https://matplotlib.org)
-[matplotlib](https://matplotlib.org)
+[seaborn](https://seaborn.pydata.org)
